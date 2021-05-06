@@ -1,4 +1,5 @@
 # ClonePi Project
+![ClonePi in action](https://github.com/kallsbo/clonepi/raw/main/clonepi.jpg)
 Using a Raspberry Pi with an LCD keypad HAT to image new SD-cards for Raspberry Pi projects without the need for a computer. Images are kept on a USB stick and you simply insert an SD-card and select the image in the list and then wait for it to image.
 
 ## Installation

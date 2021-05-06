@@ -35,4 +35,6 @@ There are several things that can be improved on this quick and dirty project.
 * Autostart
 * Nice case
 
-This was a quick and dirty project to actually use the HAT that was in my scrap bin. What ever you do don't do this on a Raspberry Pi 1, it's really slow.
+This was a quick and dirty project to actually use the HAT that was in my scrap bin. What ever you do don't do this on a Raspberry Pi 1, it's really slow.  
+
+Before you use this, read this https://hackviking.com/2021/05/06/raspberry-pi-pains-of-the-past/
